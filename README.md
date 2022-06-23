@@ -40,7 +40,3 @@ Also, with additionally running `git add docs/styles.css -f` and committing chan
 
 Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override. It has a great [documentation](https://tailwindcss.com/docs/installation).
 
-## Build Your Own Resume
-
-- Made With Universal Résumé Template
-- Credit To @webpraktikos For The Repo
