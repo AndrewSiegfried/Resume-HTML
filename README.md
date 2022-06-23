@@ -1,7 +1,6 @@
 ## Hope You Enjoyed My Resume!
 
-This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/), and the [Universal Résumé Template](https://github.com/WebPraktikos/universal-resume)
-
+This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/)
 ## How to run it
 
 Navigate to the base directory:
