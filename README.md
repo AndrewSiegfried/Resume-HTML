@@ -2,10 +2,6 @@
 
 This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/), and the [Universal Résumé Template](https://github.com/WebPraktikos/universal-resume)
 
-## Check Out My Finished Resume
-
-Hosted with Netlify & Mobile Responsive [Tyler Bryant - Resume](https://my-custom-resume.netlify.app/)
-
 ## How to run it
 
 Navigate to the base directory:
